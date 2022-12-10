@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Marshall_et_al_AGU2021.aux
+The style file: /Users/hpm/D_DRIVE/latex/agu.bst
+Database file #1: mypubs2.bib
+You've used 3 entries,
+            2718 wiz_defined-function locations,
+            774 strings with 6557 characters,
+and the built_in function-call counts, 1834 in all, are:
+= -- 153
+> -- 152
+< -- 1
++ -- 39
+- -- 36
+* -- 200
+:= -- 265
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 20
+chr.to.int$ -- 3
+cite$ -- 9
+duplicate$ -- 58
+empty$ -- 113
+format.name$ -- 41
+if$ -- 376
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 12
+num.names$ -- 12
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 70
+stack$ -- 0
+substring$ -- 106
+swap$ -- 17
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 27
+warning$ -- 0
+while$ -- 13
+width$ -- 0
+write$ -- 35

@@ -1,0 +1,35 @@
+\begin{thebibliography}{5}
+
+\bibitem[{\it Deeb et~al.\/}({2011}){\it Deeb, Forster, and Kane\/}]{Deeb:2011}
+Deeb, E.~J., R.~R. Forster, and D.~L. Kane, {Monitoring snowpack evolution
+  using interferometric synthetic aperture radar on the North Slope of Alaska,
+  USA}, {\it {INTERNATIONAL JOURNAL OF REMOTE SENSING}\/}, {\it {32}\/}({14}),
+  {3985--4003}, {2011}.
+
+\bibitem[{\it Guneriussen et~al.\/}({2001}){\it Guneriussen, Hogda, Johnsen,
+  and Lauknes\/}]{Guneriussen:2001}
+Guneriussen, T., K.~Hogda, H.~Johnsen, and I.~Lauknes, {InSAR for estimation of
+  changes in snow water equivalent of dry snow}, {\it {IEEE TRANSACTIONS ON
+  GEOSCIENCE AND REMOTE SENSING}\/}, {\it {39}\/}({10}), {2101--2108}, {2001}.
+
+\bibitem[{\it Havens et~al.\/}(2014){\it Havens, Marshall, Johnson, and
+  Nicholson\/}]{Havens:2014}
+Havens, S., H.~Marshall, J.~B. Johnson, and B.~Nicholson, Calculating the
+  velocity of a fast-moving snow avalanche using an infrasound array, {\it
+  Geophysical Research Letters\/}, {\it 41\/}(17), 6191--6198, 2014.
+
+\bibitem[{\it Johnson et~al.\/}(2021){\it Johnson, Anderson, Marshall, Havens,
+  and Watson\/}]{Johnson:2021}
+Johnson, J., J.~Anderson, H.~Marshall, S.~Havens, and L.~Watson, Snow avalanche
+  detection and source constraints made using multiple infrasound sensor
+  arrays, {\it Journal of Geophysical Research-Earth Surface\/}, {\it
+  126\/}(3), e2020JF005741, 2021.
+
+\bibitem[{\it Marshall et~al.\/}(2021){\it Marshall, Deeb, Forster, Vuyovich,
+  Elder, Hiemstra, and Lund\/}]{Marshall:2021}
+Marshall, H., E.~Deeb, R.~Forster, C.~Vuyovich, K.~Elder, C.~Hiemstra, and
+  J.~Lund, {L-band InSAR depth retrieval during the NASA SnowEx 2020 Campaign:
+  Grand Mesa, Colorado}, {\it Proceedings of the International Geoscience and
+  Remote Sensing Symposium (IGARSS)\/}, 2021.
+
+\end{thebibliography}
