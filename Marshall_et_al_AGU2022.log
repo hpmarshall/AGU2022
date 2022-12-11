@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.11)  10 DEC 2022 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.11)  11 DEC 2022 15:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -418,10 +418,10 @@ File: SnowExLogo.png Graphic file (type png)
 Package pdftex.def Info: SnowExLogo.png  used on input line 206.
 (pdftex.def)             Requested size: 240.22163pt x 156.49014pt.
 Package epstopdf Info: Source file: <CryoGARSlogo.eps>
-(epstopdf)                    date: 2022-12-08 15:30:34
+(epstopdf)                    date: 2022-12-10 00:34:46
 (epstopdf)                    size: 12960574 bytes
 (epstopdf)             Output file: <CryoGARSlogo-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-12-09 22:58:17
+(epstopdf)                    date: 2022-12-10 00:34:46
 (epstopdf)                    size: 716050 bytes
 (epstopdf)             Command: <repstopdf --outfile=CryoGARSlogo-eps-converted
 -to.pdf CryoGARSlogo.eps>
@@ -489,6 +489,22 @@ File: FIGURES2/InSARavyControl.png Graphic file (type png)
 <use FIGURES2/InSARavyControl.png>
 Package pdftex.def Info: FIGURES2/InSARavyControl.png  used on input line 298.
 (pdftex.def)             Requested size: 751.57599pt x 387.16016pt.
+<FIGURES2/InSAR_LiDAR_avys.png, id=11, 1507.6325pt x 621.32124pt>
+File: FIGURES2/InSAR_LiDAR_avys.png Graphic file (type png)
+<use FIGURES2/InSAR_LiDAR_avys.png>
+Package pdftex.def Info: FIGURES2/InSAR_LiDAR_avys.png  used on input line 320.
+
+(pdftex.def)             Requested size: 751.57599pt x 309.73076pt.
+<FIGURES2/UAVSARavy.png, id=12, 1405.25pt x 830.10126pt>
+File: FIGURES2/UAVSARavy.png Graphic file (type png)
+<use FIGURES2/UAVSARavy.png>
+Package pdftex.def Info: FIGURES2/UAVSARavy.png  used on input line 328.
+(pdftex.def)             Requested size: 751.57599pt x 443.97946pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]\T1/ppl/m/n/24.88 Figure 8: UAVSAR Pol-SAR im-age over LCC
+ []
+
 (./Marshall_et_al_AGU2022.bbl) [1
 
 
@@ -499,18 +515,19 @@ Non-PDF special ignored!
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./CRREL
 logo.png> <./SnowExLogo.png> <./CryoGARSlogo-eps-converted-to.pdf> <./FIGURES2/
 NISAR.png> <./FIGURES2/UAVSAR.png> <./FIGURES2/InSARavy2.png> <./FIGURES2/White
-PinesAvalanches.png> <./FIGURES2/CarSAR.png> <./FIGURES2/InSARavyControl.png>]
+PinesAvalanches.png> <./FIGURES2/CarSAR.png> <./FIGURES2/InSARavyControl.png> <
+./FIGURES2/InSAR_LiDAR_avys.png> <./FIGURES2/UAVSARavy.png>]
 (./Marshall_et_al_AGU2022.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4178 strings out of 478040
- 67243 string characters out of 5839121
- 391589 words of memory out of 5000000
- 22510 multiletter control sequences out of 15000+600000
- 516247 words of font info for 98 fonts, out of 8000000 for 9000
+ 4193 strings out of 478040
+ 67650 string characters out of 5839121
+ 399217 words of memory out of 5000000
+ 22522 multiletter control sequences out of 15000+600000
+ 516504 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,13n,62p,831b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -524,10 +541,10 @@ ts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatin
 o/uplri8a.pfb>
-Output written on Marshall_et_al_AGU2022.pdf (1 page, 9212241 bytes).
+Output written on Marshall_et_al_AGU2022.pdf (1 page, 22510178 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

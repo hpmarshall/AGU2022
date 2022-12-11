@@ -259,7 +259,7 @@
 \begin{mysection}{Avalanche detection}
 \large{
 \begin{itemize}
-\item Accurate avalanche observations are required to investigate the potential for avalanche signals in InSAR imagery 
+\item Accurate avalanche observations are required to investigate the potential for avalanche signals in InSAR 
 \item We leverage observations from avalanche forecasters, and arrays of infrasound sensors \citep{Havens:2014,Johnson:2021}
 \end{itemize}
 
@@ -268,7 +268,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=1\columnwidth]{FIGURES2/WhitePinesAvalanches.png}
-\caption{Avalanche detection, location, and tracking with multiple infrasound arrays.  Colors indicate progression of time as the avalanche
+\caption{Infrasound avalanche detection, location, and tracking in LCC with multiple infrasound arrays.  Colors indicate progression of time as the avalanche
 releases in the starting zone, and moves along the path \citep{Johnson:2021}}
 \end{figure}
 \end{minipage}
@@ -307,8 +307,28 @@ releases in the starting zone, and moves along the path \citep{Johnson:2021}}
 \vspace{-1cm}
 \large{
 \begin{itemize}
-\item Similar to recognition of handwritten numbers
+\item Depth change inversion from InSAR: $-\Delta H_s$ in path, $+\Delta H_s$ in debris
+\item InSAR inversion shows signature of avalanches in dry snow conditions
+\item Previous SAR avalanche detection has focused on changes in amplitude, and allows detection of large (>D2) slides, but small avalanches are challenging
+\item InSAR phase and coherence in the right conditions may provide more sensitivity, in particular detection of smaller slides
+\item Our future work will combine phase, coherence, and amplitude for detection of a wide range of avalanche sizes, using infrasound arrays to precisely determine timing and location of events
 \end{itemize}
+
+\begin{minipage}{1\columnwidth}
+\begin{figure}
+\centering
+\includegraphics[width=1\columnwidth]{FIGURES2/InSAR_LiDAR_avys.png}
+\caption{Dry snow avalanches on steep north-facing slopes, Grand Mesa, CO.  Depth difference during 1$^{st}$ two weeks of Feb 2020, observed by LiDAR (left) and InSAR (right) }
+\end{figure}
+\end{minipage}
+
+\begin{minipage}{1\columnwidth}
+\begin{figure}
+\centering
+\includegraphics[width=1\columnwidth]{FIGURES2/UAVSARavy.png}
+\caption{UAVSAR PolSAR image over LCC (red=HH,green=HV,blue=VV) for Feb 23, 2021, after a large avalanche cycle.  Impact of avalanche debris can be seen as dark areas in runout zone.}
+\end{figure}
+\end{minipage}
 
 %\begin{minipage}{0.5\columnwidth}
 %\begin{figure}
